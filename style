@@ -1,0 +1,18 @@
+#upper{
+    background-color: greenyellow;
+    height: 100px;
+    display: flex;
+}
+
+#formularz{
+    padding-top: 20px;
+    padding-left: 20%;
+   
+}
+#lower{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
